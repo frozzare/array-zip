@@ -1,0 +1,35 @@
+{
+  "name": "array-zip",
+  "description": "Merges together the values of each of the arrays",
+  "version": "0.1.0",
+  "license": "MIT",
+  "homepage": "https://github.com/frozzare/array-zip",
+  "author": {
+    "name": "Fredrik Forsmo",
+    "email": "fredrik.forsmo@gmail.com",
+    "url": "http://forsmo.me"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/frozzare/array-zip.git"
+  },
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "main": "lib/array-zip",
+  "files": [
+    "lib/array-zip.js"
+  ],
+  "devDependencies": {
+    "mocha": "*"
+  },
+  "keywords": [
+    "array",
+    "list",
+    "zip",
+    "merge"
+  ]
+}
