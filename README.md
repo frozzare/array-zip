@@ -1,4 +1,4 @@
-# array-pluck [![Build Status](https://secure.travis-ci.org/frozzare/array-zip.png?branch=master)](http://travis-ci.org/frozzare/array-pluck)
+# array-zip [![Build Status](https://secure.travis-ci.org/frozzare/array-zip.png?branch=master)](http://travis-ci.org/frozzare/array-zip)
 
 Merges together the values of each of the arrays.
 
