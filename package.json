@@ -1,7 +1,7 @@
 {
   "name": "array-zip",
   "description": "Merges together the values of each of the arrays",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "license": "MIT",
   "homepage": "https://github.com/frozzare/array-zip",
   "author": {
