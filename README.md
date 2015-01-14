@@ -7,6 +7,7 @@ Install the module with: `npm install array-zip`
 ## Example
 
 ```javascript
+var arrayZip = require('array-zip');
 var result = arrayZip([1, 2], ['a', 'b']);
   
 console.log(result); // [ [ 1, 'a' ], [ 2, 'b' ] ]
